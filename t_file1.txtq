@@ -1,0 +1,43 @@
+[33mcommit 4f5d197e446ea220662d8fadaf060ee119b65aa8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Gusev Vitaly <vitalya.622525@gmail.com>
+Date:   Thu Apr 10 19:30:22 2025 +0400
+
+    Добавили 2 файла один для удаления
+
+[33mcommit be24071809dcc16e2fae2f74e4164ac049d12278[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gusev Vitaly <vitalya.622525@gmail.com>
+Date:   Thu Apr 10 19:18:25 2025 +0400
+
+    создал файл  test_file1.txt
+
+[33mcommit 6a15b2bf3fa05eb586a4fe0c39d740341807e0cd[m
+Author: VOG6225 <vitalya.622525@gmail.com>
+Date:   Thu Apr 10 14:46:14 2025 +0400
+
+    Delete Test file.txt
+    
+    Удалили все файлы
+
+[33mcommit 95c4d044003b3aa3d4803996a3f715fd79f523e1[m
+Author: Gusev Vitaly <vitalya.622525@gmail.com>
+Date:   Thu Apr 10 13:56:14 2025 +0400
+
+    Удалили файл выборов
+
+[33mcommit 11ecbac0db0f50603ad3e3c623f764d686b858fe[m
+Author: VOG6225 <vitalya.622525@gmail.com>
+Date:   Thu Apr 10 13:51:20 2025 +0400
+
+    Добавлен файл через Github
+
+[33mcommit bc42dbeb2a568e9f97ada9c31ba412d508152c48[m
+Author: Gusev Vitaly <vitalya.622525@gmail.com>
+Date:   Thu Apr 10 13:48:43 2025 +0400
+
+    Добавили файл Test file.txt
+
+[33mcommit cdfda7a240d4f830e994701bc12cd3754611273c[m
+Author: VOG6225 <vitalya.622525@gmail.com>
+Date:   Thu Apr 10 12:46:44 2025 +0400
+
+    Initial commit
